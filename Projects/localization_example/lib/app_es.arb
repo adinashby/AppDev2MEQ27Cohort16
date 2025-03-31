@@ -1,0 +1,6 @@
+{
+    "language": "Español",
+    "helloWorld": "Hola Mundo!",
+    "multiLanguage": "Multi lenguaje",
+    "hello": "Hola {username}"
+}

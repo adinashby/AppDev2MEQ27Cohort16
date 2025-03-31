@@ -1,0 +1,23 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "The current Language"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+        "description": "A programmer greeting"
+    },
+    "multiLanguage": "Multi Language",
+    "@multiLanguage": {
+        "description": "App title"
+    },
+    "hello": "Hello {username}",
+    "@hello": {
+        "description": "A welcome message",
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    }
+}
